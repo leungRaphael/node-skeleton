@@ -3,6 +3,8 @@
 
 学习源码 https://github.com/atian25/yadan
 
+学习笔记 https://www.yuque.com/fenfen-ls2od/kb/ydyd24
+
 ## QuickStart
 
 ```bash
